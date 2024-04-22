@@ -5,29 +5,14 @@
 # - name: Git
 #   weight: 5
 
-- name: Angular
+- name: Streamlit
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: Keras
   weight: 4
 
-- name: Node
-  weight: 1
+- name: Scikit-learn
+  weight: 4
 
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
+- name: Scrapy
   weight: 4

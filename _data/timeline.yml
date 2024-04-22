@@ -4,51 +4,51 @@
 # > subtitle: The description under the title
 # > tags: List of tags you want to associate with the entry
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: University College Dublin
+  title-url: https://www.ucd.ie/discovery/aihealthcarehub/
+  date: Sep 2022 - Present
+  subtitle: Data Scientist extracting insights from clinical datasets of pregnancy-related illness
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Python
+    - tag: Keras
+    - tag: Scikit-learn
+    - tag: Mlflow
+    - tag: Streamlit
+    - tag: SQL
+    - tag: SAS
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Royal College of Surgeons in Ireland
+  title-url: https://schoenlab.mystrikingly.com/#the-group
+  date: May 2022 - July 2022
+  subtitle: Senior Researcher
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Python
+    - tag: Scikit-learn
+    - tag: Keras
+    - tag: Streamlit
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Human Technopole
+  title-url: https://humantechnopole.it/en/research-groups/jug-group/
+  date: Apr 2022 - May 2022
+  subtitle: Visiting Researcher to the Jug Lab
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Python
+    - tag: Pytorch
+    - tag: Keras
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Royal College of Surgeons in Ireland
+  title-url: https://schoenlab.mystrikingly.com/#the-group
+  date: Feb 2018 - Apr 2022
+  subtitle: Research Associate (PhD in Platelet Biophysics)
+
+- title: Royal College of Surgeons in Ireland
+  date: Oct 2016 - Apr 2017
+  subtitle: Research Assistant
+
+- title: Trinity College Dublin
+  date: Sep 2015 - July 2016
+  subtitle: MSc in Translational Oncology
+
+- title: Dublin City University
+  date: Sep 2010 - May 2014
+  subtitle: BSc in Genetics and Cell Biology
